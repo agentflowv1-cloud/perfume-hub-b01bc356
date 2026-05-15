@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Perfume 1",
+        "rating": 4.5,
+        "image": "https://example.com/perfume1.jpg",
+        "link": "https://example.com/perfume1"
+    },
+    {
+        "title": "Perfume 2",
+        "rating": 4.8,
+        "image": "https://example.com/perfume2.jpg",
+        "link": "https://example.com/perfume2"
+    }
+]
